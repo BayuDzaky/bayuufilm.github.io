@@ -1,0 +1,45 @@
+.myBG{
+    height: 100vh;
+    background: url("../assets/Bg/BG teater.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 3px 3px black;
+    letter-spacing: 2px;
+
+}
+
+.trending{
+    height: auto;
+    background: url("../assets/Bg/moonfall.jpg");
+    background-size: cover;
+}
+
+
+.movieImage{
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images{
+    height: 500px;
+}
+
+.horor{
+    height: auto;
+    background: url("../assets/Bg/Kuyang.jpg");
+    background-size: cover;
+}
